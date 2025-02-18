@@ -31,7 +31,7 @@ Want to help develop Nautilus? Follow these steps:
 3. Send a pull request explaining your changes.
 4. Wait for the team's review and feedback.
 
-Check out the [contribution guide](https://github.com/Nautilus/Nautilus-Docs) for more details!
+Check out the [contribution guide](https://github.com/Nautilus-Core/Nautilus-Docs) for more details!
 
 ## 📜 License
 This project is licensed under the **Apache 2.0 License**, allowing commercial use, modifications and distribution, as long as they reference the original project.
