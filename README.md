@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/199771274?s=200&v=4" alt="Nautilus" width="300">
+  <img src="https://github.com/Nautilus-Core/Nautilus/blob/main/NAUTILUS-BANNER.png" alt="Nautilus" width="100%">
 </p>
 
 
