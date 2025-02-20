@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/199771274?s=200&v=4" alt="Nautilus" width="300">
+</p>
+
+
 # 🌊 Nautilus
 
 **Exploring the depths of the ocean with open-source technology.**
